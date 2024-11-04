@@ -1,0 +1,46 @@
+/* Container styling */
+.container {
+    max-width: 600px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+/* Title styling */
+.title {
+    font-size: 1.8em;
+    color: #333;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+/* User detail section styling */
+.userDetail p {
+    font-size: 1em;
+    color: #555;
+    margin: 8px 0;
+}
+
+/* Label styling for ID, Name, Email, Role */
+.label {
+    font-weight: bold;
+    color: #333;
+}
+
+/* Error message styling */
+.error {
+    color: #e74c3c; /* Red color for error */
+    font-size: 1.1em;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+/* Loading message styling */
+.loading {
+    font-size: 1.1em;
+    color: #777;
+    text-align: center;
+}
